@@ -9,7 +9,7 @@ Google Colab can help simplify and supercharge your data science workflow.
 Google Colab is a cloud-based Jupyter notebook environment from Google Research. With its simple and easy-to-use interface, Colab helps you get started with your data science journey with almost no setup.
 
 
-Head over to colab.research.google.com. You'll see the following screen. To be able to write and run code, you need to sign in with your Google credentials. This is the only step that's required from your end. No other configuration is needed.
+Head over to colab.research.google.com. To be able to write and run code, you need to sign in with your Google credentials. This is the only step that's required from your end. No other configuration is needed.
 
 
 Google Colab is a self-contained environment. It allows you to write Python code as well as text—using markdown cells—to include rich text and media, as shown below. This helps in adding instructions for a step-by-step walkthrough of the project, thereby improving readability.
